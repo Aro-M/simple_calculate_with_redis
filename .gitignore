@@ -1,0 +1,10 @@
+__pycache__
+
+### Redis ###
+# Ignore redis binary dump (dump.rdb) files
+
+*.rdb
+.idea
+.venv
+
+
