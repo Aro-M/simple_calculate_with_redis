@@ -4,9 +4,9 @@ How to work․
 
 <b><i>pip install redis</i></b>
 
-after 
+After 
 
-<i> redis-cli </i>
+<b><i> redis-cli </i></b>
 
 And then you need to run both files
 
